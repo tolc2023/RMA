@@ -1,0 +1,8 @@
+[options]
+db_host = localhost
+db_port = 5432
+db_user = hr_project
+db_password = hr_project
+addons_path = E:\Odoo 15.0\odoo\addons,E:\Odoo 15.0\odoo\odoo\addons,E:\Odoo 15.0\enterprise-zatinrma,E:\Odoo 15.0\lichhorng_addons,E:\Odoo 15.0\HR_at_RMA\hr_at_rma_cambodia
+admin_passwd = iloveyou2023
+
