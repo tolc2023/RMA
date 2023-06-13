@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/HR_at_RMA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HR_at_RMA/hr_at_rma_cambodia" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/enterprise-zatinrma" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lichhorng_addons" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/odoo" vcs="Git" />
